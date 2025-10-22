@@ -1,4 +1,4 @@
-## 📘 Descritivo do Teste Prático — Analytics Engineer (Estágio)
+## 📘 Teste Prático — Analytics Engineer (Estágio)
 
 Bem-vindo(a) ao nosso desafio técnico! 🎯
 
