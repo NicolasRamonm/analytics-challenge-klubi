@@ -474,7 +474,7 @@ A análise revelou diferenças significativas entre grupos demográficos e compo
 - **Qualidade da Internet**: Correlação fraca (-0.032) com desempenho acadêmico
 
 ## 6. Modelo Preditivo Supervisionado
-_Modelo preditivo supervisionado para testagem das hipóteses, novas variaveis e tendencias encontradas._
+Modelo preditivo supervisionado para testagem e validação das hipóteses, como as novas váriaveis se comportarão e se as conclusões atingidas pela análise de dados se traduzem em uma análise preditiva.
 
 ### 6.1 Estruturação
 O modelo de regressão foi estruturado utilizando PyCaret para predição da variável `exam_score` (nota do exame). Foram utilizadas **15 features** após remoção da coluna `student_id`:
