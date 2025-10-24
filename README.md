@@ -14,7 +14,7 @@ _**Caso o GitHub não carregue as imagens da documentação, visualize clicando 
 Desenvolvimento e treinamento do modelo de machine learning para predição de desempenho.
 
 ###  [Dashboard Streamlit](https://klubi-challange-nicolas.streamlit.app/)
-Aplicação Streamlit para visualização interativa dos dados e resultados.
+Streamlit para visualização dos dados.
 
 ## 🗂️ Estrutura do Projeto
 
