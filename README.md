@@ -8,6 +8,8 @@ Jupyter notebook com análise exploratória dos dados de hábitos e desempenho e
 ###  [Documentação Completa](docs/documentacao.md)
 Análise detalhada dos hábitos e desempenho estudantil com insights e conclusões.
 
+_**Caso o GitHub não carregue as imagens da documentação, visualize clicando [aqui](https://drive.google.com/file/d/1Jq0uKQACvxmLv3hEVuyvrVaaYkPKvLkO/view?usp=sharing).**_
+
 ###  [Modelo Supervisionado](src/notebooks/modelo_supervisionado.ipynb)
 Desenvolvimento e treinamento do modelo de machine learning para predição de desempenho.
 
