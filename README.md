@@ -11,7 +11,7 @@ Análise detalhada dos hábitos e desempenho estudantil com insights e conclusõ
 _**Caso o GitHub não carregue as imagens da documentação, visualize clicando [aqui](https://drive.google.com/file/d/1Jq0uKQACvxmLv3hEVuyvrVaaYkPKvLkO/view?usp=sharing).**_
 
 ###  [Modelo Supervisionado](src/notebooks/modelo_supervisionado.ipynb)
-Desenvolvimento e treinamento do modelo de machine learning para predição de desempenho.
+Jupyter Notebook com o desenvolvimento e treinamento do modelo de machine learning para predição de desempenho e validação das hipóteses.
 
 ###  [Dashboard Streamlit](https://klubi-challange-nicolas.streamlit.app/)
 Streamlit para visualização dos dados.
