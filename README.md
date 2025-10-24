@@ -11,7 +11,7 @@ Análise detalhada dos hábitos e desempenho estudantil com insights e conclusõ
 ###  [Modelo Supervisionado](src/notebooks/modelo_supervisionado.ipynb)
 Desenvolvimento e treinamento do modelo de machine learning para predição de desempenho.
 
-###  [Dashboard Streamlit]()
+###  [Dashboard Streamlit](https://klubi-challange-nicolas.streamlit.app/)
 Aplicação Streamlit para visualização interativa dos dados e resultados.
 
 ## 🗂️ Estrutura do Projeto
