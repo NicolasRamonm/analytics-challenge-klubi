@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Título principal
-st.title("📊 Análise Interativa de Hábitos e Desempenho Estudantil")
+st.title("Análise de Hábitos X Desempenho Estudantil")
 st.markdown("---")
 
 # Carregamento dos dados
