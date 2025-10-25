@@ -51,7 +51,6 @@ O dataset apresentou excelente qualidade inicial, com apenas 91 valores ausentes
 - **Outliers extremos**: Nenhum outlier extremo identificado nas variáveis principais
 - **Inconsistências lógicas**: Nenhuma inconsistência detectada (horas totais ≤ 24h, notas 0-100, etc.)
 - **Duplicatas**: Nenhuma duplicata completa ou ID duplicado encontrado
-- **Score de qualidade**: 90/100 - Excelente qualidade inicial dos dados
 
 ## 2. Tratamento dos Dados e Novas Variaveis
 
